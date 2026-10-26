@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:196c2e,100:39d353&height=230&section=header&text=Steven%20Chininin&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%2B%20Cybersecurity&descSize=20&descAlignY=58" width="100%" alt="Header" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Th3sixflags&style=for-the-badge&color=238636&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Th3sixflags?label=Followers&style=for-the-badge&color=238636&logo=github&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenchininin/)
@@ -30,7 +28,7 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 - 🧟 Off the keyboard: **Resident Evil** and keeping it chill
 - ⚡ Fun fact: calm, peaceful and easygoing, until production goes down
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="" />
+---
 
 ## $ tech-stack
 
@@ -93,7 +91,7 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="" />
+---
 
 ## $ featured-projects
 
@@ -136,7 +134,7 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="" />
+---
 
 ## $ github-stats
 
@@ -161,7 +159,7 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="" />
+---
 
 <div align="center">
 
@@ -171,7 +169,5 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenchininin@gmail.com)
 
 <sub>🧟 Built with code & calm in Loja, Ecuador</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:196c2e,100:0d1117&height=130&section=footer&animation=twinkling" width="100%" alt="Footer" />
 
 </div>
