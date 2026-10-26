@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Steven Chininin</h1>
-<h3 align="center">Full Stack Developer + Cybersecurity</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Building+full+stack+apps+end+to+end;Breaking+them+to+make+them+secure;React+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Cloud;Based+in+Loja%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Typing SVG" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Th3sixflags&style=for-the-badge&color=238636&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Th3sixflags?label=Followers&style=for-the-badge&color=238636&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenchininin/)
+[![Email](https://img.shields.io/badge/-Email-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenchininin@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Th3sixflags&label=Profile%20views&color=238636&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Th3sixflags?label=Followers&style=flat-square&color=238636" />
-  <img src="https://img.shields.io/badge/Open%20to-collaborations-238636?style=flat-square" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Th3sixflags/Th3sixflags/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Th3sixflags/Th3sixflags/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Th3sixflags/Th3sixflags/output/github-snake-dark.svg" width="98%" />
+</picture>
 
----
+<h1>Hi 👋, I'm Steven Chininin</h1>
 
-## 👨‍💻 About me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Building+full+stack+apps+end+to+end;Breaking+them+to+make+them+secure;React+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Cloud;Based+in+Loja%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Typing SVG" />
+
+</div>
 
 I'm **Steven**, also known as **Chini** — a Full Stack Developer with a strong focus on **cybersecurity**, currently in my 5th semester of **Information Technology Engineering** at **UIDE** in Loja, Ecuador 🇪🇨.
 
@@ -28,27 +30,54 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 
 ---
 
-## 🧰 Languages and Tools
+## $ tech-stack
 
 <div align="center">
 
-**Frontend**
+<table>
+<tr>
+<td align="center" width="50%">
 
-![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,vite,figma)
+**`$ frontend`**
 
-**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,vite,figma&theme=dark" />
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,py,mysql,mongodb,sqlite,postman)
+</td>
+<td align="center" width="50%">
 
-**Cloud & DevOps**
+**`$ backend`**
 
-![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx,terraform,githubactions,gitlab,vercel)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,postman&theme=dark" />
 
-**Tools & OS**
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,powershell,npm)
+**`$ databases`**
 
-**Security**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+**`$ cloud-devops`**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx,terraform,githubactions,vercel&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**`$ tools-os`**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,ubuntu,bash,powershell,npm&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+**`$ security`**
 
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -56,11 +85,15 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 ![NIST](https://img.shields.io/badge/NIST_SP_800--30-238636?style=for-the-badge)
 ![Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-238636?style=for-the-badge)
 
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## $ featured-projects
 
 <table>
   <tr>
@@ -103,44 +136,38 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 
 ---
 
-## 📊 Stats
+## $ github-stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Th3sixflags&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3sixflags&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&langs_count=8" />
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/Th3sixflags">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Th3sixflags&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="GitHub Stats" height="180"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Th3sixflags">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Th3sixflags&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+  </a>
+</td>
+</tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=Th3sixflags&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Th3sixflags&bg_color=0d1117&color=c9d1d9&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true&title_color=39d353" />
+<img src="https://streak-stats.demolab.com?user=Th3sixflags&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🐍 Contributions
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Th3sixflags/Th3sixflags/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Th3sixflags/Th3sixflags/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Th3sixflags/Th3sixflags/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## 🤝 Connect with me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenchininin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Th3sixflags)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenchininin/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chinininnnn)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Th3sixflags)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenchininin@gmail.com)
+
+<sub>🧟 Built with code & calm in Loja, Ecuador</sub>
 
 </div>
-
-<p align="center"><sub>🧟 Built with code & calm in Loja, Ecuador</sub></p>
