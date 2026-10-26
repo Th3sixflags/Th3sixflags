@@ -81,14 +81,9 @@ Information Technology Engineering student at **UIDE** (5th semester), focused o
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Th3sixflags&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Th3sixflags&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=24292f&icon_color=57606a&text_color=57606a" />
-  <img alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Th3sixflags&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" height="170" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Th3sixflags&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Th3sixflags&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&langs_count=6" />
-  <img alt="Top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Th3sixflags&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&langs_count=6" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Th3sixflags&hide_border=true&background=00000000&ring=8b949e&fire=8b949e&currStreakLabel=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Th3sixflags&hide_border=true&background=00000000&ring=57606a&fire=57606a&currStreakLabel=24292f&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Th3sixflags&hide_border=true&background=00000000&ring=8b949e&fire=8b949e&currStreakLabel=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
 </picture>
 
 </div>
