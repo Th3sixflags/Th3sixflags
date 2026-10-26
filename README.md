@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:196c2e,100:39d353&height=230&section=header&text=Steven%20Chininin&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%2B%20Cybersecurity&descSize=20&descAlignY=58" width="100%" alt="Header" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Th3sixflags&style=for-the-badge&color=238636&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Th3sixflags?label=Followers&style=for-the-badge&color=238636&logo=github&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenchininin/)
@@ -11,7 +13,7 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Th3sixflags/Th3sixflags/output/github-snake-dark.svg" width="98%" />
 </picture>
 
-<h1>Hi 👋, I'm Steven Chininin</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=39D353&center=true&vCenter=true&width=520&height=50&lines=Hi+%F0%9F%91%8B%2C+I%27m+Steven+Chininin;aka+Chini+%F0%9F%A7%9F;%24+whoami+%E2%86%92+dev+%26+hacker" alt="Greeting" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Building+full+stack+apps+end+to+end;Breaking+them+to+make+them+secure;React+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Cloud;Based+in+Loja%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Typing SVG" />
 
@@ -28,7 +30,7 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 - 🧟 Off the keyboard: **Resident Evil** and keeping it chill
 - ⚡ Fun fact: calm, peaceful and easygoing, until production goes down
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="" />
 
 ## $ tech-stack
 
@@ -91,7 +93,7 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="" />
 
 ## $ featured-projects
 
@@ -134,7 +136,7 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="" />
 
 ## $ github-stats
 
@@ -159,7 +161,7 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="" />
 
 <div align="center">
 
@@ -169,5 +171,7 @@ I build applications end to end: clean interfaces with **React** and **TypeScrip
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenchininin@gmail.com)
 
 <sub>🧟 Built with code & calm in Loja, Ecuador</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:196c2e,100:0d1117&height=130&section=footer&animation=twinkling" width="100%" alt="Footer" />
 
 </div>
