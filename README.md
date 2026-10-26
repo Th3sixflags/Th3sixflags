@@ -1,26 +1,32 @@
-<h1 align="center">Hi 👋, I'm Steven Chininin</h1>
-<h3 align="center">Full Stack Developer + Cybersecurity</h3>
+name: Generate snake animation
 
-## 🧰 Languages and Tools
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # se actualiza cada 12 horas
+  workflow_dispatch:          # para correrlo a mano
+  push:
+    branches: [main]
 
-<div align="center">
+permissions:
+  contents: write
 
-![Skills](https://skillicons.dev/icons?i=py,js,flutter,swift,java,docker,figma,html,css,nextjs,angular,vue,git,aws,azure,mongodb,mysql,linux,ts,react,vite,nodejs,express)
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-</div>
-
-## 🤝 Connect with me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenchininin@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/stevenchininin) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Th3sixflags)
-
-</div>
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3sixflags&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
